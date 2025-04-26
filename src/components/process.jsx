@@ -8,7 +8,7 @@ import launchImage from '../images/launch.png';
 export default function Process () {
     return (
 
-        <div className='bg-gray-100 py-10  mt-20' id='process'>
+        <div className='bg-gray-100 py-10  mt-30' id='process'>
 
 <div className='w-5/6 m-auto mt-30'>
 
