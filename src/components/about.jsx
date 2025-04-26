@@ -6,7 +6,7 @@ export default function About () {
 
         <div className=" bg-gray-100" id="about">
 
-            <div className="w-5/7 m-auto grid grid-cols-1 lg:grid-cols-2 py-30">
+            <div className="md:w-5/7 m-auto grid grid-cols-1 lg:grid-cols-2 py-30">
 
                 <div className="p-4 flex flex-col justify-center gap-8 w-full md:w-2/3">
                     <div className="space-y-8">

@@ -16,7 +16,7 @@ export default function Contact () {
 
         <div className="lg:absolute lg:z-50 " id="contact">
 
-            <div className='w-5/7 m-auto p-5 lg:p-10 grid grid-cols-1 lg:grid-cols-2 gap-4 bg-gray-100 shadow-xl  mt-10 rounded-md'>
+            <div className='md:w-5/7 m-auto p-5 lg:p-10 grid grid-cols-1 lg:grid-cols-2 gap-4 bg-gray-100 shadow-xl  mt-10 rounded-md'>
 
                 <div className='p-1 lg:p-10'>
 

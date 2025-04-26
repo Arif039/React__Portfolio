@@ -10,7 +10,7 @@ export default function Process () {
 
         <div className='bg-gray-100 py-10  mt-20' id='process'>
 
-<div className='w-5/6 m-auto mt-20'>
+<div className='w-5/6 m-auto mt-30'>
 
 <div className='grid grid-cols-1 md:grid-cols-2'>
 
